@@ -1,2 +1,20 @@
-# Salesforce-Development-Course
-A comprehensive Salesforce Development Course repository containing daily Apex code examples, best practices, and hands-on implementations to help developers learn and master Salesforce development step by step.
+# 🚀 Salesforce-Development-Course
+
+
+
+Welcome to the **Salesforce Development Course Repository**!  
+This is your one-stop destination to **learn Salesforce Apex programming**, **master triggers, SOQL, and best practices**, and grow from beginner to advanced Salesforce developer.  
+
+---
+
+## 📚 What You'll Learn
+- ✅ **Apex Basics** – Syntax, Variables, Data Types  
+- ✅ **Object-Oriented Apex** – Classes & Objects  
+- ✅ **SOQL & SOSL** – Querying Salesforce Data  
+- ✅ **Triggers** – Automating Business Logic  
+- ✅ **Asynchronous Apex** – Batch, Future, Queueable  
+- ✅ **Test Classes** – Writing & Deploying Tests  
+- ✅ **Real-World Projects** – Hands-on implementations  
+
+---
+
